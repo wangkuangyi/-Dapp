@@ -6,8 +6,8 @@
 前端代码在client/src/App.js
 
 步骤：
-npm install
-npm install crypto-js
-npm start
+①npm install
+②npm install crypto-js
+③npm start
 
 
