@@ -7,6 +7,7 @@
 
 步骤：
 npm install
+npm install crypto-js
 npm start
 
-（可能还要truffle compile && truffle migrate）
+
